@@ -12,7 +12,7 @@ function Header(){
 	
 				
 				<Navbar bg="success" variant="dark" fixed="top">
-		   			 <Navbar.Brand href="#home">Saw world</Navbar.Brand>
+		   			 <Navbar.Brand href="#home">VSaw World</Navbar.Brand>
 					
 					
 		  		</Navbar>					
