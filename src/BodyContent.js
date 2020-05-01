@@ -19,6 +19,8 @@ function BodyContent(){
 <br/><br/>
 			<a href="https://sawnews.netlify.app" target="_blank">Indian News </a>
 		<br/><br/>
+		<a href="https://insult.netlify.app" target="_blank">Insult Yourself </a>
+		<br/><br/>
 		</div>
 		);
 }
